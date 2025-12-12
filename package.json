@@ -2,18 +2,18 @@
   "name": "catthode",
   "displayName": "Catthode",
   "description": "A warm OLED black VS Code Theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "Catthode",
   "author": "jes-bz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/catthode/catthode-vscode"
+    "url": "https://github.com/catthode/vscode"
   },
   "bugs": {
-    "url": "https://github.com/catthode/catthode-vscode/issues"
+    "url": "https://github.com/catthode/vscode/issues"
   },
-  "homepage": "https://github.com/catthode/catthode-vscode#readme",
+  "homepage": "https://github.com/catthode/vscode#readme",
   "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.80.0"

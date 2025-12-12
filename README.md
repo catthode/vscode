@@ -59,7 +59,7 @@ https://marketplace.visualstudio.com/items?itemName=Catthode.catthode
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jes-bz/catthode.git
+   git clone https://github.com/catthode/vscode.git
    ```
 2. Open the folder in VS Code.
 3. Press `F5` to launch the Extension Development Host with the theme loaded.
